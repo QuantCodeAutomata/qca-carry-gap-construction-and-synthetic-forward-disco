@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+data/cache/
+*.parquet
+*.h5
+*.pkl
+.DS_Store
+.idea/
+.vscode/
+# keep results/ tracked
+
